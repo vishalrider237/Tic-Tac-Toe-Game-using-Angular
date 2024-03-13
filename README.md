@@ -1,5 +1,7 @@
 # TicTacToe
 
+ this game is deployed here click here to check: https://tic-tac-toe-game-using-angular.vercel.app/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.10.
 
 ## Development server
