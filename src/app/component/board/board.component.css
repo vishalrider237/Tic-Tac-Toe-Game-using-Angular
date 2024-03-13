@@ -1,0 +1,38 @@
+.heading{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 800;
+    color: black;
+}
+table{
+    margin: auto;
+
+}
+table tr td{
+    /* border: 1px solid #e2e2e2; */
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+    margin: 10px 10px;
+}
+.button-container button{
+    background-color: rgb(53,53,237);
+    color: white;
+    text-transform: uppercase;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: none;
+}
+.green{
+    background-color: rgb(55, 226, 55);
+    color: black;
+}
+.red{
+    background-color: rgb(229, 62, 62);
+    color: black;
+}
+.footer{
+    padding-left: 1440px;
+    padding-top: 100px;
+}
